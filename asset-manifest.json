@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/margo-lee/react_practice.git/static/css/main.8409debc.chunk.css",
-    "main.js": "/margo-lee/react_practice.git/static/js/main.ca09ff96.chunk.js",
-    "main.js.map": "/margo-lee/react_practice.git/static/js/main.ca09ff96.chunk.js.map",
-    "runtime-main.js": "/margo-lee/react_practice.git/static/js/runtime-main.eda9cf61.js",
-    "runtime-main.js.map": "/margo-lee/react_practice.git/static/js/runtime-main.eda9cf61.js.map",
-    "static/js/2.17183b8a.chunk.js": "/margo-lee/react_practice.git/static/js/2.17183b8a.chunk.js",
-    "static/js/2.17183b8a.chunk.js.map": "/margo-lee/react_practice.git/static/js/2.17183b8a.chunk.js.map",
-    "static/js/3.f442b96e.chunk.js": "/margo-lee/react_practice.git/static/js/3.f442b96e.chunk.js",
-    "static/js/3.f442b96e.chunk.js.map": "/margo-lee/react_practice.git/static/js/3.f442b96e.chunk.js.map",
-    "index.html": "/margo-lee/react_practice.git/index.html",
-    "static/css/main.8409debc.chunk.css.map": "/margo-lee/react_practice.git/static/css/main.8409debc.chunk.css.map",
-    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/margo-lee/react_practice.git/static/js/2.17183b8a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/margo-lee/react_practice.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/react_practice/static/css/main.8409debc.chunk.css",
+    "main.js": "/react_practice/static/js/main.ca09ff96.chunk.js",
+    "main.js.map": "/react_practice/static/js/main.ca09ff96.chunk.js.map",
+    "runtime-main.js": "/react_practice/static/js/runtime-main.2dbf95e3.js",
+    "runtime-main.js.map": "/react_practice/static/js/runtime-main.2dbf95e3.js.map",
+    "static/js/2.17183b8a.chunk.js": "/react_practice/static/js/2.17183b8a.chunk.js",
+    "static/js/2.17183b8a.chunk.js.map": "/react_practice/static/js/2.17183b8a.chunk.js.map",
+    "static/js/3.f442b96e.chunk.js": "/react_practice/static/js/3.f442b96e.chunk.js",
+    "static/js/3.f442b96e.chunk.js.map": "/react_practice/static/js/3.f442b96e.chunk.js.map",
+    "index.html": "/react_practice/index.html",
+    "static/css/main.8409debc.chunk.css.map": "/react_practice/static/css/main.8409debc.chunk.css.map",
+    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/react_practice/static/js/2.17183b8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_practice/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eda9cf61.js",
+    "static/js/runtime-main.2dbf95e3.js",
     "static/js/2.17183b8a.chunk.js",
     "static/css/main.8409debc.chunk.css",
     "static/js/main.ca09ff96.chunk.js"
